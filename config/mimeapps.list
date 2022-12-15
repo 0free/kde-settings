@@ -1,0 +1,5 @@
+[Added Associations]
+audio/vnd.dts=org.kde.kate.desktop;
+
+[Default Applications]
+audio/vnd.dts=org.kde.kate.desktop;

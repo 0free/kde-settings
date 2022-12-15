@@ -1,0 +1,10 @@
+[Formats]
+LANG=en_US
+LC_MEASUREMENT=en_US.UTF-8
+LC_MONETARY=en_US.UTF-8
+LC_NUMERIC=en_US.UTF-8
+LC_PAGE=en_MP.UTF-8
+LC_TIME=en_US.UTF-8
+
+[Translations]
+LANGUAGE=en_US:ar

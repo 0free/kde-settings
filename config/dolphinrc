@@ -1,0 +1,57 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[CompactMode]
+IconSize=32
+PreviewSize=32
+
+[ContextMenu]
+ShowSortBy=false
+ShowViewMode=false
+
+[DetailsMode]
+ExpandableFolders=false
+IconSize=32
+PreviewSize=32
+SidePadding=0
+
+[General]
+CloseActiveSplitView=false
+LockPanels=false
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+ShowSelectionToggle=false
+Version=202
+ViewPropsTimestamp=2022,9,11,20,4,46.498
+
+[IconsMode]
+IconSize=48
+MaximumTextLines=1
+PreviewSize=48
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[KPropertiesDialog]
+Virtual-1 Height 2498x1375=500
+Virtual-1 Width 2498x1375=452
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[Open-with settings]
+CompletionMode=1
+History=kate
+
+[PreviewSettings]
+Plugins=comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsexethumbnail,windowsimagethumbnail,svgthumbnail
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
